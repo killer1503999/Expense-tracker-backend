@@ -1,0 +1,5 @@
+{
+"appService.defaultWebAppToDeploy": "/subscriptions/515bb616-8804-4727-a63e-1e21589ea091/AppServices/subscriptions/515bb616-8804-4727-a63e-1e21589ea091/resourceGroups/GET-Assessment/providers/Microsoft.Web/sites/NileshExpenseTracker",
+"appService.deploySubpath": "."
+}
+ 
